@@ -7,4 +7,4 @@
 - **npm run lint** _To run lint_
 - **npm run dev** _To run the server_
 
-After you run the project you can access the backend on **<http://localhost:5173/>**
+After you run the project you can access the frontend on **<http://localhost:5173/>**
