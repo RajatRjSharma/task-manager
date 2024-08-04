@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# PID files
+*.pid
+
+# Coverage reports
+coverage/
+
+# Build output
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# npm
+package-lock.json
+
+# Yarn
+yarn-error.log
+.yarn/
+.pnp.*
+
+# Debug
+*.dbg
+
+# OS-specific files
+.DS_Store
+Thumbs.db

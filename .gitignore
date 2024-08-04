@@ -1,0 +1,17 @@
+# Ignore project-specific directories
+/fastify-backend/node_modules
+/vite-frontend/node_modules
+
+# Ignore editor-specific files and folders
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore global logs
+*.log

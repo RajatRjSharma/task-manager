@@ -1,0 +1,10 @@
+{
+    "watch": [
+        "src"
+    ],
+    "ext": "js",
+    "ignore": [
+        "test"
+    ],
+    "exec": "babel-node src/index.js"
+}
