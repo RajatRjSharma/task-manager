@@ -15,3 +15,8 @@ Thumbs.db
 
 # Ignore global logs
 *.log
+
+.env
+/env
+env
+env/
