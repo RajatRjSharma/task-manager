@@ -1,4 +1,4 @@
-# TASK MANAGER APPLICATION (NodeJs, Fastify, React Project)
+# TASK MANAGER APPLICATION (NodeJs, Fastify, React, Mongo Project)
 
 ## Respective readme are added in both backend and frontend projects
 
